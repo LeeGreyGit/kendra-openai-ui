@@ -1,0 +1,14 @@
+{
+  "title": "Amazon Kendra Search",
+  "inputText": "検索文字列を入力する",
+  "inputMsg": "メッセージを入力する",
+  "result": "{{fromIndex}}-{{toIndex}}/{{total}}（件）",
+  "preview": "プレビュー",
+  "download": "ダウンロード",
+  "desc": "降順",
+  "asc": "昇順",
+  "noData": "検索結果はありません。",
+  "chatbot": "ご質問をどうぞ！",
+  "send": "送信",
+  "close": "閉じる"
+}
