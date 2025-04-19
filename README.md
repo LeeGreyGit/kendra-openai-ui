@@ -2,7 +2,7 @@
 
 ```bash
 # Clone
-$ git clone https://github.com/LeeGreyGit/react-java-ui.git
+$ git clone https://github.com/LeeGreyGit/kendra-openai-ui.git
 
 # Install modules.
 $ npm install
